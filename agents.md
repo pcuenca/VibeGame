@@ -118,7 +118,7 @@ bun test             # Run tests
 
 ```typescript
 // For AI agents with Context7 access:
-// Use mcp__context7__resolve-library-id to find "vibegame"
+// Use mcp__context7__resolve-library-id to find "/dylanebert/vibegame"
 // Then use mcp__context7__get-library-docs with the resolved ID
 // This provides the full 2000+ line documentation with detailed examples
 ```
